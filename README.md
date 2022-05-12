@@ -1,4 +1,6 @@
-# LaundryinPPAM
-Laundry.in adalah marketplace layanan laundry paling fleksibel dan terlengkap di Indonesia. 
+# Laundryin
+Laundry.in is the most flexible and most comprehensive laundry service marketplace in Indonesia.
 
-Lewat Laundry.in, pelanggan bebas memilih layanan terbaik untuk cuci, setrika, dan layanan spesial lainnya untuk berbagai barang mulai dari pakaian, karpet, dan barang lainnya dalam satu genggaman saja
+Through Laundry.in, customers are free to choose the best services for washing, ironing, and other special services for various items ranging from clothes, carpets, and other items in one hand.
+
+This project is created for Mobile App Development course. 
